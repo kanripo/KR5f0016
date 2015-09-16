@@ -1,7 +1,0 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-29 02:18:41.677554
-#+TITLE: 天原發微
-#+PROPERTY: DZID  DZ1182
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，27—584 十八卷 太清部
-#+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
